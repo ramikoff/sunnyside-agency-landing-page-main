@@ -91,6 +91,7 @@ Users should be able to:
     }
 ```
 <h1>Some JS code I'm proud of</h1>
+
 ```js
 
 let menu = document.querySelector(".nav__menu");
