@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-solution-flexbox-bem-js-scss-a8Ano9s5X)
+- [Live Site URL](https://ramikoff.github.io/sunnyside-agency-landing-page-main/)
 
 ## My process
 
